@@ -1,0 +1,47 @@
+Backgrounds
+To select a time of day for a background simply add any of the following tags to the name of the location:
+_dawn
+_morning
+_sunset
+_evening
+_night
+
+The only exceptions are that backgrounds that end in "_day", simply replace "day" with the appropriate time tag.
+Examples:
+image bg sayori_bedroom_dawn
+image bg class_morning
+image bg residential_sunset
+image bg club_evening
+image bg house_night
+
+If you want to flip a background vertically or horizontally just add "v_" or "h_" before the name.
+(these are not currently compatible with the different times of day yet, I'll add them in an update at a later time)
+Examples:
+image bg h_corridor
+image bg v_club_day2_day
+
+Characters
+To set a character to the appropriate time coloration simply add the first letter of the time's name to the beginning of the character pose.
+Examples:
+sayori d1a
+natsuki m42bd
+yuri s3y6
+monika n5a
+
+New Poses
+I've added a few new poses that everyone can use in their mods. They are also compatible with the time system.
+Here are the following new poses:
+
+Sayori
+-New "z" face, just add to any given standard pose for both her uniform and casual outfits
+-sayori 5e and sayori 5f, two new alternate face for her finger-tapping pose
+
+Natsuki
+-natsuki 52 and natsuki 5b2, this is simply making the unused "tsundere" head turn sprites usable for both her uniform and casual outfits
+
+Yuri
+-None currently, need to get some done
+
+Monika
+-New "s" face, just add to any given standard pose for her uniform
+-Added 4 new arm poses that increase her number of poses considerably, Monika now has new standard poses spanning from 6 to 16, all of which are compatible with all standard pose faces

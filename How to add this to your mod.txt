@@ -1,0 +1,6 @@
+Simply place a copy of "time_of_day.rpy", "new_bgs+cgs.rpy", "new_poses.rpy", and an unzip of the "mod_assets" folder into the "game" folder located within your DDLC mod.
+
+Voila.
+Now just use the code tags found within the "Definitions.txt" to change your backgrounds and characters.
+
+The empty folders are included for ease of compatibility with future updates.

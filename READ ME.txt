@@ -1,0 +1,14 @@
+About
+-----
+This collection of coding and images are for anyone to use as they wish.
+I did this so that the community as a whole would have more tools and options for creating their mods, and hopefully it'll help keep the community alive for a while.
+You don't NEED to name me in your mod's credits, but I would greatly appreciate it if you do.
+
+Feel free to add onto my work if you like, although be aware that if you use the same naming convention that I have for poses that you may run into potential compatibility problems with updates.
+To anyone who would like to add new character poses or backgrounds, please send them to me and I will place them into the master zip file and set up the proper coding myself.
+Thanks in advance to any future donators, your work is greatly appreciated!
+
+Credits
+-------
+Koya-Sato
+CampinKarl
