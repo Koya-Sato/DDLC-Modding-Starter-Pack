@@ -6,7 +6,7 @@ _sunset
 _evening
 _night
 
-The only exceptions are that backgrounds that end in "_day", simply replace "day" with the appropriate time tag.
+The only exceptions are for backgrounds that end in "_day", simply replace "day" with the appropriate time tag.
 Examples:
 image bg sayori_bedroom_dawn
 image bg class_morning
