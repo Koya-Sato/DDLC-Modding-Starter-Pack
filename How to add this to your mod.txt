@@ -1,6 +1,11 @@
-Simply place a copy of "time_of_day.rpy", "new_bgs+cgs.rpy", "new_poses.rpy", and an unzip of the "mod_assets" folder into the "game" folder located within your DDLC mod.
+This was made to specifically be drag-and-drop ready for mods.
 
-Voila.
+Simply place a copy of "time_of_day.rpy", "new_bgs+cgs.rpy", "new_poses.rpy", and an unzipped version of the "mod_assets" folder into the "game" folder located within your DDLC mod.
+Voila. Simple, no?
 Now just use the code tags found within the "Definitions.txt" to change your backgrounds and characters.
 
+Under normal circumstances you should be able to get right into using it immediately after you place the files into your mod, however there may be potential compatibility issues if you have some of your own unique character poses in your game.
+Feel free to go through and rename any files or coding as you need to, but just know that I will be releasing expansions that add new artwork and other file types, so using your own naming convention for your unique files will probably make it easier for you in the long run.
+
 The empty folders are included for ease of compatibility with future updates.
+Feel free to use that space yourself if it makes things easier for you.
