@@ -1,5 +1,5 @@
 Backgrounds
-To select a time of day for a background simply add any of the following tags to the name of the location:
+To select a time of day for a background simply add any of the following tags to the end of the name of the location:
 _dawn
 _morning
 _sunset
@@ -14,27 +14,32 @@ image bg residential_sunset
 image bg club_evening
 image bg house_night
 
+Also note that this isn't immediately compatible with new backgrounds that you've added to your mod, you'll have to code that yourself.
+It's very easy, I promise.
+Simply go into "time_of_day.rpy" and copy the format that I used, replace the image and change the name as appropriate. Couldn't really be any easier.
+Feel free to tweak the system to your specifications as well if you're feeling confident about it.
+
 If you want to flip a background vertically or horizontally just add "v_" or "h_" before the name.
-(these are not currently compatible with the different times of day yet, I'll add them in an update at a later time)
+(these are NOT currently compatible with the different times of day as of yet, I'll add that in an update at a later time)
 Examples:
 image bg h_corridor
 image bg v_club_day2_day
 
 Characters
-To set a character to the appropriate time coloration simply add the first letter of the time's name to the beginning of the character pose.
+To set a character to the appropriate time's coloration simply add the first letter of the time's name to the beginning of the character pose.
 Examples:
-sayori d1a
-natsuki m42bd
-yuri s3y6
-monika n5a
+sayori d1a (dawn 1a)
+natsuki m42bd (morning 42bd)
+yuri s3y6 (sunset 3y6)
+monika n5a (night 5a)
 
 New Poses
-I've added a few new poses that everyone can use in their mods. They are also compatible with the time system.
+I've added several new poses as well. They are compatible with the time system.
 Here are the following new poses:
 
 Sayori
 -New "z" face, just add to any given standard pose for both her uniform and casual outfits
--sayori 5e and sayori 5f, two new alternate face for her finger-tapping pose
+-sayori 5e and sayori 5f, two new alternate faces for her finger-tapping pose
 
 Natsuki
 -natsuki 52 and natsuki 5b2, this is simply making the unused "tsundere" head turn sprites usable for both her uniform and casual outfits
